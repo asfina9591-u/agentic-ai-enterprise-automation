@@ -714,7 +714,7 @@ The **Agentic AI Integrated Enterprise and Decision Support System** successfull
 
 - **Current Status:** Completed Development Prototype & Master Documentation Suite Complete (Production deployment is pending as the final post-defense phase).
 - **Academic Evaluation:** Prepared for Final-Year B.Tech Defense & Technical Evaluation.
-- **Repository:** [https://github.com/Devashree-b-s/agentic-ai-enterprise-automation](https://github.com/Devashree-b-s/agentic-ai-enterprise-automation)
+- **Repository:** [https://github.com/Devashree-b-s/agentic-ai-enterprise-automation](https://github.com/asfina9591-u/agentic-ai-enterprise-automation)
 
 ---
 *Built with Python, FastAPI, LangGraph, React 19, TypeScript, and ChromaDB.*
